@@ -1,6 +1,6 @@
 # Opdrachtomschrijving
 Binnen het OBA thema leven lang leren willen we de Amsterdammers van zoveel mogelijk bronnen voorzien om informeel te kunnen (blijven) leren. 
-Ik heb gekozen om te richten op ondernemers. "Als jonge ondernemer wil ik meer informatie vinden over het oprichten van een onderneming, om zodoende meer kans te hebben op succes. De opdracht is om een nieuw prototype te maken met verbeteringen van de website van OBA. Hierbij heb ik me vooral gefocust op een duidelijke design en kleine verbeteringen zodat de website makkelijk te gebruiken is. 
+Ik heb gekozen om te richten op ondernemers. "Als jonge ondernemer wil ik meer informatie vinden over het oprichten van een onderneming, om zodoende meer kans te hebben op succes." De opdracht is om een nieuw prototype te maken met verbeteringen van de website van OBA. Hierbij heb ik me vooral gefocust op een duidelijke design en kleine verbeteringen zodat de website makkelijk te gebruiken is. 
 
 # Eerste ontwerp
 <img width="631" alt="Schermafbeelding 2022-03-18 om 10 06 23" src="https://user-images.githubusercontent.com/74242736/158973298-708cd8ac-9352-44f9-b32f-330da64ba9e6.png">
