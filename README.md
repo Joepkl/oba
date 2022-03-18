@@ -45,7 +45,7 @@ Ik heb gekozen om te richten op ondernemers. "Als jonge ondernemer wil ik meer i
 
 ### Zoeksuggesties
 Wanneer de gebruiker met de muis over de zoekbalk gaat vergroot het input veld. Als er op het input veld geklikt wordt komen er suggesties waar op gezocht kan worden te voorschijn.
-<img width="951" alt="Schermafbeelding 2022-03-18 om 10 21 00" src="https://user-images.githubusercontent.com/74242736/158975667-01ad8698-f417-4591-8ca4-aa1a6078cccd.png">
+<img width="1438" alt="Schermafbeelding 2022-03-18 om 11 43 57" src="https://user-images.githubusercontent.com/74242736/158989011-65cda6a8-7d57-408f-926c-340d519ac339.png">
 
 ### Zoekresultaten + filter
 Na het zoeken verschijnt er een filter knop om de resultaten te filteren. Het is me nog niet gelukt om dit te laten werken.
