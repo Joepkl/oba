@@ -20,7 +20,7 @@ document.getElementById('zoekForm').addEventListener('submit', function(prevent)
 
 // Zoekfunctie uitleg verschijnen
 function zoekUitleg(){
-  document.querySelector('ul').style.display = 'block'
+  document.querySelector('#suggesties').style.display = 'block'
 }
 
 document.querySelector('form input').addEventListener('click', zoekUitleg)
@@ -28,7 +28,7 @@ document.querySelector('form input').addEventListener('click', zoekUitleg)
 
 // Zoekfunctie uitleg weg
 function zoekUitlegWeg(){
-  document.querySelector('ul').style.display = 'none'
+  document.querySelector('#suggesties').style.display = 'none'
 }
 
 document.getElementById('resultaten').addEventListener('mouseover', zoekUitlegWeg)

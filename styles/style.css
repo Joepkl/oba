@@ -127,7 +127,7 @@ form input:focus{
     width: 25vw;
 }
 
-ul{
+#suggesties{
     display: none;
     margin-top: 2%;
 }
@@ -150,3 +150,14 @@ ul{
     100% { transform: rotate(360deg); }
   }
 
+
+/* Filter styling */
+#filter{
+    position: fixed;
+    left: 3%;
+    bottom: 40%;
+    background-color: rgb(219, 217, 217);
+    color: rgb(255, 0, 0);
+    border: black solid .2vw;
+    font-size: 1.2vw;
+}
