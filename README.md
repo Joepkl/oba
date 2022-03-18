@@ -24,3 +24,5 @@ Ik heb gekozen om te richten op ondernemers. "Als jonge ondernemer wil ik meer i
 * Automatisch inladen boeken over ondernemen
 * Responsive website gemaakt
 * Code opgesplitst in modules
+
+# Livelink
