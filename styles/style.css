@@ -160,4 +160,5 @@ form input:focus{
     color: rgb(255, 0, 0);
     border: black solid .2vw;
     font-size: 1.2vw;
+    display: none;
 }

@@ -35,6 +35,9 @@ function renderZoekData(data){
     const titel = document.querySelector('#titel')
     titel.textContent = 'Resultaten'
 
+    const filter = document.querySelector('#filter')
+    filter.style.display = 'block'
+
     const zoekResultaten = data.results
     console.dir(zoekResultaten)
     zoekResultaten.forEach((item, i) => {
