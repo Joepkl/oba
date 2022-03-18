@@ -5,6 +5,8 @@ Ik heb gekozen om te richten op ondernemers. "Als jonge ondernemer wil ik meer i
 # Eerste ontwerp
 <img width="631" alt="Schermafbeelding 2022-03-18 om 10 06 23" src="https://user-images.githubusercontent.com/74242736/158973298-708cd8ac-9352-44f9-b32f-330da64ba9e6.png">
 
+<img width="633" alt="Schermafbeelding 2022-03-18 om 10 07 31" src="https://user-images.githubusercontent.com/74242736/158973458-d8c60b68-56e9-4994-8f48-22075d976ebd.png">
+
 
 
 
