@@ -28,5 +28,10 @@ fetch(url, config)
   })
   .catch(err => {
     console.log(err)
+    const errorMelding = document.querySelector('#errorMelding')
+    errorMelding.textContent = 'De content kan niet geladen worden, check je verbinding.'
+
+    const loader = document.querySelector('#loader')
+    loader.remove()
   });
 }

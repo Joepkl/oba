@@ -17,11 +17,12 @@ export function zoekData(zoekValue){
     }).then(function(data){
         console.log('Je zocht op ' + zoekValue)
         renderZoekData(data)
-    }).catch((error) => {
+    }).catch(error => {
         console.log(error);
-        console.log('An error occured, please try again.')
+        console.log('An error occured, please try again.');
     })
 }
+
 
 
 
@@ -30,6 +31,9 @@ function renderZoekData(data){
 
     const resultaten = document.querySelector('#resultaten')
     resultaten.textContent = ''
+
+    const titel = document.querySelector('#titel')
+    titel.textContent = 'Resultaten'
 
     const zoekResultaten = data.results
     console.dir(zoekResultaten)
@@ -46,3 +50,7 @@ function renderZoekData(data){
       }
     )
 }
+
+
+
+
