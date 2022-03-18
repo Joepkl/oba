@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OBA</title>
+    <link rel="stylesheet" href="styles/style.css">
+    <script type="module" src="scripts/script.js"></script>
+</head>
+<body>
+    <img src="images/logo.png" alt="Logo" id="logo">
+    
+    <main>
+        <section>
+            <div id="collectie">
+                <h1>Collectie</h1>
+                <p>In de uitgebreide collectie van de OBA is voor iedereen wel iets te vinden, van boek en bladmuziek tot dvd, in de vestigingen én online! Met de zoekbalk is het mogelijk om snel te zoeken naar onderwerpen.</p>
+            </div>
+    
+            <div>
+                <h2>Zoekfunctie</h2>
+                <form id="zoekForm">
+                    <input id="zoekbalk" type="text" placeholder="Waar ben je naar opzoek?" autocomplete="off">
+                    <button type="submit" value="search"><img src="images/zoekButton.svg" alt="Zoeken"></button>
+                </form>
+                <ul>
+                    <li><p>Auteurs</p></li>
+                    <li><p>Boeken</p></li>
+                    <li><p>Cursussen</p></li>
+                    <li><p>Activiteiten</p></li>
+                    <li><p>Video's</p></li>
+                    <li><p>Luisterboeken</p></li>
+                </ul>
+            </div>
+        </section>
+
+        <section>
+            <h2 id="titel">Resultaten</h2>
+            <div id="loader"></div>
+            <div id="resultaten"></div>
+        </section>
+
+
+    </main>
+    
+</body>
+</html>

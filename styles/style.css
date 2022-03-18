@@ -1,0 +1,152 @@
+/* Algemene styling */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: avenir, sans-serif;
+}
+
+
+/* Logo zijkant styling */
+#logo{
+    width: 10%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+
+/* Main styling */
+main{
+    width: 80%;
+    margin-left: 15%;
+    margin-right: 5%;
+}
+
+h1{
+    color: rgb(255, 0, 0);
+    font-size: calc(2vw + 2vh + 2vmin);
+}
+
+h2{
+    color: rgb(255, 0, 0);
+    font-size: calc(1vw + 1vh + 1vmin);
+}
+
+p{
+    font-size: calc(.5vw + .5vh + .5vmin); 
+}
+
+/* Main collectie en zoekfunctie divs styling */
+section:nth-of-type(1){
+    display: flex;
+    margin-top: 3%;
+}
+
+section:nth-of-type(1) div:nth-of-type(1){
+    width: 50%;
+}
+
+section:nth-of-type(1) div:nth-of-type(2){
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* Main resultaten styling  */
+section:nth-of-type(2){
+    margin-top: 15%;
+}
+
+section:nth-of-type(2) div:nth-of-type(2){
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+article{
+    width: 20%;
+    height: fit-content;
+    margin-right: 3%;
+    margin-top: 2%;
+    background-color: rgb(219, 217, 217);
+    cursor: pointer;
+    border: .1vw solid darkgrey;
+}
+
+article:hover{
+    box-shadow: 0px 0px 1.5vw red;
+}
+
+article h2{
+    color: black;
+    font-size: 1.3vw;
+    padding-top: .5vw;
+    padding-bottom: .5vw;
+    text-align: center;
+}
+
+article img{
+    width: 100%;
+}
+
+
+
+/* Zoekbutton styling */
+form{
+    display: flex;
+    margin-top: 2%;
+}
+
+form input{
+    font-size: 1.3vw;
+    width: 20vw;
+    text-align: center;
+    border: black solid .2vw;
+    border-right: 0;
+}
+
+form button{
+    background-color: rgb(219, 217, 217);
+    width: 3vw;
+    border: black solid .2vw;
+    cursor: pointer;
+}
+
+form input:hover{
+    width: 25vw;
+    transition: 0.6s ease-in;
+}
+
+form input:focus{
+    width: 25vw;
+}
+
+ul{
+    display: none;
+    margin-top: 2%;
+}
+
+
+/* Zoeken loader */
+#loader{
+    border: 1.5vw solid #f3f3f3; 
+    border-top: 1.5vw solid rgb(255, 0, 0); 
+    border-radius: 50%;
+    width: 10vw;
+    height: 10vw;
+    animation: spin 2s ease-in-out infinite; 
+    margin: auto;
+    margin-top: 5vw;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
