@@ -31,12 +31,16 @@ Ik heb gekozen om te richten op ondernemers. "Als jonge ondernemer wil ik meer i
 * Automatisch inladen boeken over ondernemen
 * Responsive website gemaakt
 * Code opgesplitst in modules
+* States
 
 
 # Eindproduct
 
 ### Loading state
 <img width="951" alt="Schermafbeelding 2022-03-18 om 10 20 27" src="https://user-images.githubusercontent.com/74242736/158975561-b01c5a7c-f0c5-42d6-a070-c4598868d055.png">
+
+### Error state
+<img width="947" alt="Schermafbeelding 2022-03-18 om 10 39 44" src="https://user-images.githubusercontent.com/74242736/158978795-408e0d57-66c3-4a18-87a3-addcee1fc75b.png">
 
 
 ### Zoeksuggesties
