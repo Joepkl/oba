@@ -36,8 +36,13 @@ Ik heb gekozen om te richten op ondernemers. "Als jonge ondernemer wil ik meer i
 # Eindproduct
 
 ### Loading state
+<img width="951" alt="Schermafbeelding 2022-03-18 om 10 20 27" src="https://user-images.githubusercontent.com/74242736/158975561-b01c5a7c-f0c5-42d6-a070-c4598868d055.png">
+
 
 ### Zoeksuggesties
+Wanneer de gebruiker met de muis over de zoekbalk gaat vergroot het input veld. Als er op het input veld geklikt wordt komen er suggesties waar op gezocht kan worden te voorschijn.
+<img width="951" alt="Schermafbeelding 2022-03-18 om 10 21 00" src="https://user-images.githubusercontent.com/74242736/158975667-01ad8698-f417-4591-8ca4-aa1a6078cccd.png">
+
 
 # Livelink
 https://joepkl.github.io/oba/
